@@ -54,7 +54,7 @@ Secure Hub에서 사용자는 직접 설문을 제작할 수도 있고, 응답�
 
  <BR>
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/e73c7e32-6cd7-43a6-89f6-393ecda11b47)">
+  <img src="https://github.com/user-attachments/assets/e73c7e32-6cd7-43a6-89f6-393ecda11b47">
 </p>
 
  <BR>
